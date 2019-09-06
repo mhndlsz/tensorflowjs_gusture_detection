@@ -1,13 +1,13 @@
 # tensorflowjs_gusture_detection
 
-The Four Golden steps:
+Steps:
 
-1- import the library tensorflow.js
-2- import the pre trained MobileNet model.
-3- load the image element or webcam video elemnt.
-4- feed the element to the model.
-5- vola .... the model will predict
-
-To make the classification customize:
-1- we need to import KNN module to allow us change the MobileNet classifications.
+1- import the library tensorflow.js <br>
+2- import the pre trained MobileNet model.<br>
+3- load the image element or webcam video elemnt.<br>
+4- feed the element to the model.<br>
+5- vola .... the model will predict<br>
+<br><br>
+To make the classification customize:<br>
+1- we need to import KNN module to allow us change the MobileNet classifications.<br>
 2- we will add 3 (or any amounts of) custom classes to feed to KNN.
